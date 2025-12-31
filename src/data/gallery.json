@@ -1,0 +1,50 @@
+[
+  {
+    "id": "farm-1",
+    "url": "https://miaoda-site-img.s3cdn.medo.dev/images/3332435a-151a-4aab-89af-1bad330dea97.jpg",
+    "alt": "Lush green farm fields with organic crops",
+    "category": "farm"
+  },
+  {
+    "id": "farm-2",
+    "url": "https://miaoda-site-img.s3cdn.medo.dev/images/d61d26a3-a608-4f69-a2c2-8754f3f93286.jpg",
+    "alt": "Beautiful sunset over the farm landscape",
+    "category": "farm"
+  },
+  {
+    "id": "farm-3",
+    "url": "https://miaoda-site-img.s3cdn.medo.dev/images/9e26fa4c-0f85-4bd6-a4e4-139a11e95cb1.jpg",
+    "alt": "Traditional farming equipment and tools",
+    "category": "equipment"
+  },
+  {
+    "id": "farm-4",
+    "url": "https://miaoda-site-img.s3cdn.medo.dev/images/18bfcffe-3172-4437-9a46-d37f99b6b32a.jpg",
+    "alt": "Fresh harvest from organic farm",
+    "category": "harvest"
+  },
+  {
+    "id": "farm-5",
+    "url": "https://miaoda-site-img.s3cdn.medo.dev/images/9ef31ba8-2e2d-45fb-bffe-d73ce6ff5002.jpg",
+    "alt": "Rich organic soil preparation",
+    "category": "farm"
+  },
+  {
+    "id": "farm-6",
+    "url": "https://miaoda-site-img.s3cdn.medo.dev/images/48ef7357-29a7-466a-bc8f-976eeceb7dd4.jpg",
+    "alt": "Sustainable irrigation system",
+    "category": "equipment"
+  },
+  {
+    "id": "farm-7",
+    "url": "https://miaoda-site-img.s3cdn.medo.dev/images/76f1ea3b-131c-43db-a7f7-7d1231ff02c4.jpg",
+    "alt": "Fresh organic vegetables growing",
+    "category": "harvest"
+  },
+  {
+    "id": "farm-8",
+    "url": "https://miaoda-site-img.s3cdn.medo.dev/images/9b97f8a2-9669-4abc-aef9-9d8b9dc9e01e.jpg",
+    "alt": "Farmers working in the field",
+    "category": "farm"
+  }
+]

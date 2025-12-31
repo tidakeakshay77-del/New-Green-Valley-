@@ -1,0 +1,138 @@
+[
+  {
+    "id": "harbhara",
+    "name": "Harbhara (Chickpea)",
+    "category": "crop",
+    "image": "https://tiimg.tistatic.com/fp/2/009/076/brown-chickpeas-harbhara-kala-chana--866.jpg",
+    "description": "Premium quality organic chickpeas grown using traditional farming methods. Rich in protein and fiber, our chickpeas are perfect for a variety of dishes.",
+    "season": "Winter (November - March)",
+    "availability": "available",
+    "farmingMethod": "Organic farming with natural composting and crop rotation. No chemical pesticides or synthetic fertilizers used.",
+    "benefits": [
+      "High in protein and fiber",
+      "Rich in vitamins and minerals",
+      "Supports digestive health",
+      "Helps maintain blood sugar levels"
+    ],
+    "harvestTime": "90-100 days after sowing"
+  },
+  {
+    "id": "tur",
+    "name": "Tur (Pigeon Pea)",
+    "category": "crop",
+    "image": "https://thumbs.dreamstime.com/b/pigeon-pea-crop-field-tuvar-beans-vegetable-plant-flower-175571805.jpg",
+    "description": "Nutritious pigeon peas cultivated with care on our organic farm. A staple in Indian cuisine, known for its rich taste and nutritional value.",
+    "season": "Kharif (June - October)",
+    "availability": "seasonal",
+    "farmingMethod": "Sustainable farming practices with natural pest control and organic manure. Grown in well-drained soil with adequate sunlight.",
+    "benefits": [
+      "Excellent source of plant protein",
+      "Rich in folate and iron",
+      "Supports heart health",
+      "Aids in weight management"
+    ],
+    "harvestTime": "150-180 days after sowing"
+  },
+  {
+    "id": "soyabean",
+    "name": "Soyabean",
+    "category": "crop",
+    "image": "https://miaoda-site-img.s3cdn.medo.dev/images/10d2d2a7-2dc3-4603-b01f-b01ac72301ec.jpg",
+    "description": "High-quality organic soybeans packed with protein and essential nutrients. Ideal for oil extraction and various food products.",
+    "season": "Kharif (June - September)",
+    "availability": "available",
+    "farmingMethod": "Organic cultivation with nitrogen-fixing properties that enrich soil naturally. Grown without GMO seeds.",
+    "benefits": [
+      "Complete protein source",
+      "Rich in omega-3 fatty acids",
+      "Contains essential amino acids",
+      "Supports bone health"
+    ],
+    "harvestTime": "90-120 days after sowing"
+  },
+  {
+    "id": "kapas",
+    "name": "Kapas (Cotton)",
+    "category": "crop",
+    "image": "https://miaoda-site-img.s3cdn.medo.dev/images/362a1732-d676-49e5-8e0a-b1ddecc95751.jpg",
+    "description": "Premium organic cotton grown sustainably on our farm. Used for textile production and oil extraction from seeds.",
+    "season": "Kharif (May - October)",
+    "availability": "seasonal",
+    "farmingMethod": "Organic cotton farming with integrated pest management. Water-efficient irrigation methods and natural fertilizers.",
+    "benefits": [
+      "Eco-friendly and sustainable",
+      "No harmful chemicals",
+      "Biodegradable fiber",
+      "Cotton seeds rich in oil"
+    ],
+    "harvestTime": "150-180 days after sowing"
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "category": "vegetable",
+    "image": "https://miaoda-site-img.s3cdn.medo.dev/images/7ab94baf-3418-421b-818d-cf52d2feff1c.jpg",
+    "description": "Fresh, organically grown onions with a perfect balance of sweetness and pungency. Essential ingredient for countless dishes.",
+    "season": "Rabi (October - March)",
+    "availability": "available",
+    "farmingMethod": "Organic farming with well-drained soil and proper spacing. Natural pest control and organic compost used.",
+    "benefits": [
+      "Rich in antioxidants",
+      "Anti-inflammatory properties",
+      "Supports immune system",
+      "Good for heart health"
+    ],
+    "harvestTime": "90-120 days after transplanting"
+  },
+  {
+    "id": "kakdi",
+    "name": "Kakdi (Cucumber)",
+    "category": "vegetable",
+    "image": "https://miaoda-site-img.s3cdn.medo.dev/images/a5b1ff97-d59c-4188-bdea-a9ee3cbdaa4e.jpg",
+    "description": "Crisp and refreshing organic cucumbers grown in our farm. Perfect for salads, pickles, and healthy snacking.",
+    "season": "Summer (March - June)",
+    "availability": "seasonal",
+    "farmingMethod": "Organic cultivation with trellis support system. Regular watering and natural pest management.",
+    "benefits": [
+      "High water content for hydration",
+      "Low in calories",
+      "Rich in vitamins K and C",
+      "Supports skin health"
+    ],
+    "harvestTime": "50-70 days after sowing"
+  },
+  {
+    "id": "methi",
+    "name": "Methi (Fenugreek)",
+    "category": "vegetable",
+    "image": "https://miaoda-site-img.s3cdn.medo.dev/images/3b737492-452d-4782-a8a1-4ee9f7d27c8f.jpg",
+    "description": "Aromatic and nutritious fenugreek leaves grown organically. Both leaves and seeds are used in cooking and traditional medicine.",
+    "season": "Winter (October - February)",
+    "availability": "available",
+    "farmingMethod": "Organic farming with cool season cultivation. Grown in well-drained soil with organic matter.",
+    "benefits": [
+      "Helps regulate blood sugar",
+      "Rich in iron and fiber",
+      "Supports digestive health",
+      "Anti-inflammatory properties"
+    ],
+    "harvestTime": "20-30 days for leaves, 90-100 days for seeds"
+  },
+  {
+    "id": "sambhar-vegetables",
+    "name": "Sambhar Vegetables",
+    "category": "vegetable",
+    "image": "https://rukminim2.flixcart.com/image/300/300/xif0q/plant-seed/x/s/d/500-coriander-seeds-kalmi-dhaniya-kothimbir-seeds-leafy-original-imagn7syz8f7hrm3.jpeg",
+    "description": "A fresh mix of traditional vegetables perfect for sambhar - including drumsticks, brinjal, tomatoes, and more. Grown organically on our farm.",
+    "season": "Year-round",
+    "availability": "available",
+    "farmingMethod": "Mixed organic vegetable farming with companion planting. Natural pest control and crop rotation practiced.",
+    "benefits": [
+      "Variety of nutrients",
+      "Rich in vitamins and minerals",
+      "Supports overall health",
+      "Traditional and authentic"
+    ],
+    "harvestTime": "Varies by vegetable (30-90 days)"
+  }
+]
