@@ -235,7 +235,7 @@ const ContactPage: React.FC = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Green Valley Farm Location"
+              title="Tidke Green Valley Farm Location"
             />
           </div>
         </div>

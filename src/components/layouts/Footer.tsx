@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-lg font-bold text-foreground">
-                  Green Valley Farm
+                 Tidke Green Valley Farm
                 </span>
                 <span className="text-xs text-muted-foreground">
                   Organic & Sustainable
@@ -69,7 +69,7 @@ const Footer: React.FC = () => {
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 text-primary mt-0.5 shrink-0" />
                 <p className="text-sm text-muted-foreground">
-                  Green Valley Farm, Erandgaion, India
+                 Tidke Green Valley Farm, Erandgaion, India
                 </p>
               </div>
               <div className="flex items-center gap-2">
@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-primary shrink-0" />
                 <p className="text-sm text-muted-foreground">
-                  tidake.akshay@gmail.com
+                  tidake.akshay66@gmail.com
                 </p>
               </div>
             </div>
@@ -92,7 +92,7 @@ const Footer: React.FC = () => {
         <div className="mt-8 pt-8 border-t border-border">
           <div className="flex flex-col xl:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground text-center xl:text-left">
-              © {currentYear} Green Valley Farm. All rights reserved.
+              © {currentYear} Tidke Green Valley Farm. All rights reserved.
             </p>
             <div className="flex items-center gap-4">
               <Link to="#" className="text-sm text-muted-foreground hover:text-primary transition-colors">

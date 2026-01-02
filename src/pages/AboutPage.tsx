@@ -33,7 +33,7 @@ const AboutPage: React.FC = () => {
         <div className="container mx-auto px-4 xl:px-8">
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="text-3xl xl:text-5xl font-bold text-foreground mb-6">
-              About Green Valley Farm
+              About Tidke Green Valley Farm
             </h1>
             <p className="text-base xl:text-xl text-muted-foreground">
               A legacy of organic farming, sustainable practices, and commitment to healthy living.
@@ -52,13 +52,13 @@ const AboutPage: React.FC = () => {
               </h2>
               <div className="space-y-4 text-base text-muted-foreground">
                 <p>
-                Green Valley Farm’s journey began in 1960, in a small village where farming was not a business, but a way of life. Our grandparents worked the land with simple tools, strong hands, and deep respect for nature. Farming was done according to the seasons, guided by traditional knowledge passed down through generations.
+               Tidke Green Valley Farm’s journey began in 1960, in a small village where farming was not a business, but a way of life. Our grandparents worked the land with simple tools, strong hands, and deep respect for nature. Farming was done according to the seasons, guided by traditional knowledge passed down through generations.
                 </p>
                 <p>
                 In those early days, the farm relied on natural methods—using cow manure, compost, crop rotation, and rainfall—to nourish the soil. There were no chemicals, only patience, hard work, and trust in the land. The fields provided food not just for our family, but for the entire village.</p>
                 <p>
                 As years passed, the responsibility of the farm moved from one generation to the next. Our parents continued the tradition, preserving the values of honest farming while slowly adapting to changing times. Even as modern agriculture grew around us, we stayed committed to natural and sustainable practices, believing that healthy soil is the foundation of healthy crops. </p>
-              <p>oday, Green Valley Farm proudly carries forward this legacy. We combine our traditional village farming wisdom with modern organic techniques to grow a wide variety of fresh, chemical-free vegetables and crops. Every seed we plant reflects over six decades of experience, care, and dedication.</p>
+              <p>today, Tidke Green Valley Farm proudly carries forward this legacy. We combine our traditional village farming wisdom with modern organic techniques to grow a wide variety of fresh, chemical-free vegetables and crops. Every seed we plant reflects over six decades of experience, care, and dedication.</p>
               </div>
             </div>
             <div className="order-1 xl:order-2">
